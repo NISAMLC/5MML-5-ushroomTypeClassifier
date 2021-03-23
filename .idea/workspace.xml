@@ -19,98 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0352731-a58d-4a50-a316-96e5b4d41059" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/5MushroomTypeClassifier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MushroomTypeClassifier.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EDA/MushroomClassifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/MushroomClassifier.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/_0211198_0102062112004.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0102062112000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_02111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/wafer_0211198_0102062112001.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/_0211198_0102062112004.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0102062112000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_02111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/wafer_0211198_0102062112001.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/_0211198_0102062112004.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0102062112000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_02111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/wafer_0211198_0102062112001.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/_0211198_0102062112004.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0102062112000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_02111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/wafer_0211198_0102062112001.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-14_184640/mushroom_08012016_120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-14_184640/mushroom_08012017_1201.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-14_184640/mushroom_08012018_120088.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Database/Prediction.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_FileFromDB/InputFile.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_Output_File/Predictions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem Statement.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2020-02-14_164958/mushroom_08012016_120.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2020-02-14_164958/mushroom_08012017_1201.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2020-02-14_164958/mushroom_08012018_120088.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Database/Training.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_FileFromDB/InputFile.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/DataBaseConnectionLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/DbInsertLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/DbTableCreateLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/ExportToCsv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/GeneralLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/ModelTrainingLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/Training_Main_Log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/addQuotesToStringValuesInColumn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/columnValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/missingValuesInColumn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/nameValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/removeHyphenFromColumnNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_preprocessing/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocessing/preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_monitoringdashboard.db" beforeDir="false" afterPath="$PROJECT_DIR$/flask_monitoringdashboard.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/KMeans/KMeans.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/KNN0/KNN0.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/RandomForest1/RandomForest1.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/RandomForest2/RandomForest2.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/RandomForest3/RandomForest3.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/RandomForest4/RandomForest4.sav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mushroom.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/predictFromModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/predictFromModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessing_data/null_values.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training_Validation_Insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/training_Validation_Insertion.py" afterDir="false" />
-    </list>
+    <list default="true" id="e0352731-a58d-4a50-a316-96e5b4d41059" name="Default Changelist" comment="final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1q8zE25HxmQQsQwKb8ge4BCm34u" />
   <component name="ProjectLevelVcsManager">
@@ -182,6 +92,21 @@
       <option name="presentableId" value="Default" />
       <updated>1616475889131</updated>
     </task>
+    <task id="LOCAL-00001" summary="final">
+      <created>1616477925831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616477925831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final">
+      <created>1616477938588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616477938588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +120,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616476046068">
       <screen x="0" y="0" width="1366" height="728" />
@@ -204,13 +133,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="520" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1616476777257" />
+    <state width="1345" height="327" key="GridCell.Tab.0.bottom" timestamp="1616477879614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="327" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616477879614" />
+    <state width="1345" height="327" key="GridCell.Tab.0.center" timestamp="1616477879614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="327" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616477879614" />
+    <state width="1345" height="327" key="GridCell.Tab.0.left" timestamp="1616477879613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="327" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616477879613" />
+    <state width="1345" height="327" key="GridCell.Tab.0.right" timestamp="1616477879614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="327" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616477879614" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1616476013263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616476013263" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1616477660852">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1616477972571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616477660852" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616477972571" />
   </component>
 </project>
