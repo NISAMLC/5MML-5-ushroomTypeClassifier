@@ -1,27 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ml" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec239e5b-456a-43b1-9fe5-0ddaf32837c3" name="Default Changelist" comment="" />
+    <list default="true" id="e0352731-a58d-4a50-a316-96e5b4d41059" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/5MushroomTypeClassifier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MushroomTypeClassifier.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA/MushroomClassifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EDA/MushroomClassifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/_0211198_0102062112004.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0102062112000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_02111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191405/wafer_0211198_0102062112001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/_0211198_0102062112004.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0102062112000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_02111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_191606/wafer_0211198_0102062112001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/_0211198_0102062112004.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0102062112000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_02111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_193019/wafer_0211198_0102062112001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/_0211198_0102062112004.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0102062112000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_02111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062112025.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062112042.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/hypothyroid_0211198_0102062112109.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-12_223149/wafer_0211198_0102062112001.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-14_184640/mushroom_08012016_120.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-14_184640/mushroom_08012017_1201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2020-02-14_184640/mushroom_08012018_120088.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Database/Prediction.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_FileFromDB/InputFile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Output_File/Predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Statement.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2020-02-14_164958/mushroom_08012016_120.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2020-02-14_164958/mushroom_08012017_1201.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainingArchiveBadData/BadData_2020-02-14_164958/mushroom_08012018_120088.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Database/Training.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_FileFromDB/InputFile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/DataBaseConnectionLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/DbInsertLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/DbTableCreateLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/ExportToCsv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/GeneralLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/ModelTrainingLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/Training_Main_Log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/addQuotesToStringValuesInColumn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/columnValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/missingValuesInColumn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/nameValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/removeHyphenFromColumnNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_preprocessing/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocessing/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_monitoringdashboard.db" beforeDir="false" afterPath="$PROJECT_DIR$/flask_monitoringdashboard.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/KMeans/KMeans.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/KNN0/KNN0.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/RandomForest1/RandomForest1.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/RandomForest2/RandomForest2.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/RandomForest3/RandomForest3.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/RandomForest4/RandomForest4.sav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mushroom.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictFromModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/predictFromModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing_data/null_values.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_Validation_Insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/training_Validation_Insertion.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1XnVp1PSXH9SGExS9MuemxCNLt6" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q8zE25HxmQQsQwKb8ge4BCm34u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../visibility_climate" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TrainingArchiveBadData" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\C\SUDH-ML\END_TO_END_PROJECTS\Mushrom_Classification\mushroomClassification (2)\mushroomClassification\code\5MushroomTypeClassifier\TrainingArchiveBadData" />
+      <recent name="C:\C\SUDH-ML\END_TO_END_PROJECTS\Mushrom_Classification\mushroomClassification (2)\mushroomClassification\code\5MushroomTypeClassifier\Training_Raw_files_validated" />
+      <recent name="C:\C\SUDH-ML\END_TO_END_PROJECTS\Mushrom_Classification\mushroomClassification (2)\mushroomClassification\code\5MushroomTypeClassifier\Training_Logs" />
+      <recent name="C:\C\SUDH-ML\END_TO_END_PROJECTS\Mushrom_Classification\mushroomClassification (2)\mushroomClassification\code\5MushroomTypeClassifier\Training_FileFromDB" />
+      <recent name="C:\C\SUDH-ML\END_TO_END_PROJECTS\Mushrom_Classification\mushroomClassification (2)\mushroomClassification\code\5MushroomTypeClassifier\Training_Database" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MushroomTypeClassifier" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="5MushroomTypeClassifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -32,8 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\datascience\iNeuron\MLProjects\5MushroomTypeClassifier\app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -44,108 +167,50 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec239e5b-456a-43b1-9fe5-0ddaf32837c3" name="Default Changelist" comment="" />
-      <created>1581682024544</created>
+      <changelist id="e0352731-a58d-4a50-a316-96e5b4d41059" name="Default Changelist" comment="" />
+      <created>1616475889131</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581682024544</updated>
-      <workItem from="1587037896147" duration="2000" />
-      <workItem from="1587037932996" duration="2555000" />
+      <updated>1616475889131</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581682053623">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616476046068">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581682053623" />
-    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1581691514911">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1616476046068" />
+    <state x="520" y="262" key="Github.ShareDialog" timestamp="1616476777257">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581691514911" />
-    <state width="1485" height="199" key="GridCell.Tab.0.bottom" timestamp="1587044202354">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="520" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1616476777257" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1616476013263">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1485" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587044202354" />
-    <state width="1485" height="199" key="GridCell.Tab.0.center" timestamp="1587044202354">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616476013263" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1616477660852">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1485" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587044202354" />
-    <state width="1485" height="199" key="GridCell.Tab.0.left" timestamp="1587044202354">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1485" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587044202354" />
-    <state width="1485" height="199" key="GridCell.Tab.0.right" timestamp="1587044202354">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1485" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587044202354" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1581686602391">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581686602391" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1581686602391">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581686602391" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1581686602391">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581686602391" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1581686602391">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581686602391" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1587038059383">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587038059383" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app.py</url>
-          <line>74</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/trainingModel.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/trainingModel.py</url>
-          <line>103</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MushroomTypeClassifier$main.coverage" NAME="main Coverage Results" MODIFIED="1587044202341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616477660852" />
   </component>
 </project>
